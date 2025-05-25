@@ -1,0 +1,4 @@
+prune 2
+apple 1
+banana 1
+pear 1

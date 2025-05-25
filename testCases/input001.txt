@@ -1,0 +1,6 @@
+5
+prune
+banana
+pear
+apple
+prune
