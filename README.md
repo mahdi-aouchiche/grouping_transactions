@@ -1,6 +1,6 @@
 # Group Transactions  
 
-> Author: Mahdi Aouchiche (<https://github.com/mahdi-aouchiche/group_transactions>)
+> Author: Mahdi Aouchiche (<https://github.com/mahdi-aouchiche/grouping_transactions>)
 
 ## Overview
 
